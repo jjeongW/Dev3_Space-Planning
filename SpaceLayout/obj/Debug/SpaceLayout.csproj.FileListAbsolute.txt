@@ -1,0 +1,6 @@
+C:\Users\jaeun\source\repos\SpaceLayout\SpaceLayout\obj\Debug\SpaceLayout.csproj.AssemblyReference.cache
+C:\Users\jaeun\source\repos\SpaceLayout\SpaceLayout\obj\Debug\SpaceLayout.Properties.Resources.resources
+C:\Users\jaeun\source\repos\SpaceLayout\SpaceLayout\obj\Debug\SpaceLayout.SpaceSyntax.resources
+C:\Users\jaeun\source\repos\SpaceLayout\SpaceLayout\obj\Debug\SpaceLayout.csproj.GenerateResource.cache
+C:\Users\jaeun\source\repos\SpaceLayout\SpaceLayout\obj\Debug\SpaceLayout.csproj.CoreCompileInputs.cache
+C:\Users\jaeun\source\repos\SpaceLayout\SpaceLayout\obj\Debug\SpaceLayout.ZoneForms.ZoneSelection.resources
